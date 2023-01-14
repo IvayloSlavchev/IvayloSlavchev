@@ -1,6 +1,10 @@
 Hello World👋!
 
-I'm Ivaylo Slavchev from Bulgaria, and I am Front-End developer. Most of the time I work with React, but I also learn more about Node.js and MySQL as a database.
+I am Ivaylo Slavchev from Bulgaria, currently building Full-Stack web application.
+
+For Front-End I use: HTML/CSS, JavaScript, React.
+For Back-End I use: NodeJS, Express (which is Back-End framework).
+For Databases: MySQL, (and sometimes MSSQL)
 
 😎 Young and highly motivated software engineer.                                                                     
 📚 3rd year of Applied Programming.                                                                                                                                       
