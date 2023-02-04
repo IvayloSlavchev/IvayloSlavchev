@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript**
 
-- 🤝 I’m looking for help with **Full-Stack web applications**
+- 🤝 I’m looking for help with **Full-Stack Web Applications**
 
 - 💬 Ask me about **Web development, JavaScript topics**
 
