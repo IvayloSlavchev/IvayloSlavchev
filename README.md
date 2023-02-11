@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ivaylo</h1>
 <h3 align="center">A passionate Full-Stack Developer from Bulgaria</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ivayloslavchev&label=Profile%20views&color=0e75b6&style=flat" alt="ivayloslavchev" /> </p>
-
 - 🔭 I’m currently working on **Society**
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript**
