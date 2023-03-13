@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ivaylo</h1>
-<h3 align="center">A passionate Full-Stack Developer from Bulgaria</h3>
+<h3 align="center">A passionate Front-End Developer from Bulgaria</h3>
 
 - 🔭 I’m currently working on **Society**
 
 - 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript**
-
-- 🤝 I’m looking for help with **Full-Stack Web Applications**
 
 - 💬 Ask me about **Web development, JavaScript topics**
 
