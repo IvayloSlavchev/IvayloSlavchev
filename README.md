@@ -11,6 +11,8 @@
 
 
 <h3 align="left">Contact with me:</h3>
+<p align="left">LinkedIn: https://www.linkedin.com/in/ivaylo-slavchev-6425a521b/</p>
+
 <p align="left">
 </p>
 
