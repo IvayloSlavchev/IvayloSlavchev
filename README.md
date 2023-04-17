@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **Society**
 
-- 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript**
+- 🌱 I’m currently learning **JavaScript, NodeJS, TypeScript, React, Next.js**
 
-- 💬 Ask me about **Web development, JavaScript topics**
+- 💬 Ask me about **Web development, JavaScript topics, Front-End development**
 
 - 📫 How to reach me **ivaylo.slavchev124@gmail.com**
 
