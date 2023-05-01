@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **ivaylo.slavchev124@gmail.com**
 
-
 <h3 align="left">Contact with me:</h3>
 <p align="left">LinkedIn: https://www.linkedin.com/in/ivaylo-slavchev-6425a521b/</p>
 
